@@ -8,10 +8,7 @@ source activate beit
 ## Instalacja TPOT i Jupyter Notebook
 
 ```bash
-conda install -y numpy scipy scikit-learn pandas
-pip install deap update_checker tqdm stopit
-pip install tpot
-conda install -y notebook seaborn
+conda install -y numpy scipy scikit-learn pandas && pip install deap update_checker tqdm stopit && pip install tpot && conda install -y notebook seaborn
 ```
 
 ## Zbiór danych - pobrać do katalogu beit/input

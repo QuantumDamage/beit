@@ -11,7 +11,7 @@ conda activate beit
 conda install -y numpy scipy scikit-learn pandas
 pip install deap update_checker tqdm stopit
 pip install tpot
-conda install -y notebook
+conda install -y notebook seaborn
 ```
 
 ## Zbiór danych - pobrać do katalogu beit/input

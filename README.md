@@ -2,7 +2,7 @@
 
 ```bash
 conda create -y -n beit
-conda activate beit
+source activate beit
 ```
 
 ## Instalacja TPOT i Jupyter Notebook
